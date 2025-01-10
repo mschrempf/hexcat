@@ -1,0 +1,5 @@
+[package]
+name = "hexcat"
+edition = "2021"
+description = "A minimalist CLI tool for viewing binary data in hex and ASCII."
+license = "MIT"
